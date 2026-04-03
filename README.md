@@ -14,4 +14,5 @@ Tiger's  Modpack
 6. Launch Minecraft using the modpack
 7. *(Optional)* Enable shaders (Video Settings in-game)
 8. Join the server!
-*also includes a backup of the world from 03 Apr 2026!
+
+No world backup included. =( The world size is over 3 GB. DM me for the file if you want.
