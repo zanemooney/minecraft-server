@@ -6,7 +6,7 @@ A repository to consolidate config files, updates, and any other information imp
 ## Install Guide
 
 Tiger's  Modpack
-1. Download `.zip`
+1. Download `.zip` by clicking `Tiger's Modpack v2.5.zip` in file list, then clicking "Download Raw File" (download icon). 
 2. Open CurseForge
 3. In the Minecraft section (CurseForge), under "My Modpacks," click **Import**
 4. Import Profile `.zip`
