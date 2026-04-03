@@ -3,7 +3,7 @@
 A repository to consolidate config files, updates, and other important information for my **private Minecraft server**.
 
 <div align="center">
-  <img src="https://github.com/zanemooney/minecraft-server/blob/main/imgs/serverSpawn.png?raw=true" alt="Server Spawn" style="max-width:80%; border:2px solid #66aa99; border-radius:8px;">
+  <img src="https://github.com/zanemooney/minecraft-server/blob/main/imgs/serverSpawn.png?raw=true" alt="Server Spawn" style="width:50%; border:2px solid #66aa99; border-radius:8px;">
 </div>
 
 ---
