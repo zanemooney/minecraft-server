@@ -13,7 +13,7 @@ A repository to consolidate config files, updates, and other important informati
 Follow these steps to get the modpack running:
 
 ### 1️⃣ Download the Modpack
-Download the `.zip` by clicking `Tiger's Modpack v2.5.zip` in the file list, then click **Download Raw File** (download icon).  
+Download the [`Tiger's Modpack v2.5.zip`](https://github.com/zanemooney/minecraft-server/blob/main/Tiger's%20Modpack%20v2.5.zip) by clicking it in the file list, then click **Download Raw File** (download icon).
 
 <div align="center">
   <img src="https://github.com/zanemooney/minecraft-server/blob/main/imgs/downloadStep.png?raw=true" alt="Download Step" style="max-width:70%; border:1px solid #ccc; border-radius:6px;">
