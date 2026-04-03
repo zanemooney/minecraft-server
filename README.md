@@ -10,7 +10,7 @@ Tiger's  Modpack
 <img src="imgs/downloadStep.png">
 3. Open CurseForge
 4. In the Minecraft section (CurseForge), under "My Modpacks," click **Import**
-<img src="imgs/downloadStep.png" style="width:50%;">
+<img src="imgs/modInstallStep2.png" style="width:50%;">
 6. Import Profile `.zip`
 7. Select `.zip`, allow CurseForge to download mods
 8. Launch Minecraft using the modpack
