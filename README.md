@@ -16,6 +16,6 @@ A repository to consolidate config files, updates, and any other important infor
 5. Select `.zip`, allow CurseForge to download mods.
 6. Launch Minecraft using the modpack.
 7. *(Optional)* Enable shaders (Video Settings in-game).
-8. Join the server!
+8. Join the server! (IP in Discord Server. Not included in Modpack for Privacy)
 
 > **Note:** No world backup included. =( The world size is over 3 GB. DM me for the file if you want.
