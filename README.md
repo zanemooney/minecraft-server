@@ -35,10 +35,7 @@ Click **Import** and select the downloaded `.zip`.
 - Select the `.zip` profile in CurseForge and let it download all mods.  
 - Launch Minecraft using the modpack.
 
-### 5️⃣ Optional: Enable Shaders
-Enable shaders via **Video Settings → Shaders** for a prettier experience.
-
-### 6️⃣ Join the Server
+### 5️⃣ Join the Server
 Connect using the **IP in the Discord server**. *(Not included in the modpack for privacy.)*
 
 ---
